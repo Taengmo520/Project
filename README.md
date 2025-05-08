@@ -15,6 +15,6 @@
 
 
 ## Running the Project
-- npm run dev
+- ใช้คำสั่ง : npm run dev
 - จากนั้นเปิดเบราว์เซอร์ที่ http://localhost:5174/
 

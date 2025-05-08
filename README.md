@@ -1,4 +1,3 @@
-# React + Vite
 # React To Do List
 
 แอป To Do List ด้วย React สามารถเพิ่ม ลบ แก้ไข และติ้กว่างานทำเสร็จแล้ว พร้อมบันทึกข้อมูลใน localStorage

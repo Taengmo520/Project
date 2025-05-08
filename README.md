@@ -1,12 +1,15 @@
 # React + Vite
+# React To Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+แอป To Do List สามารถเพิ่ม ลบ แก้ไข และติ้กว่างานทำเสร็จแล้ว พร้อมบันทึกข้อมูลใน localStorage
+## Prerequisites
 
-Currently, two official plugins are available:
+- Node.js ≥ 18
+- npm 10.8.2
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
 
-## Expanding the ESLint configuration
+1. ดาวน์โหลดโปรเจกต์ 
+2. ติดตั้ง dependencies: npm i
+3. คำสั่งรัน npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
